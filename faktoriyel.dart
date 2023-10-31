@@ -11,3 +11,4 @@ int faktoriyelHesaplama(int girilenSayi) {
 
   return toplam;
 }
+
